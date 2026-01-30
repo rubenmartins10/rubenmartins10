@@ -1,4 +1,4 @@
-Hi there! 👋 I'm [Teu Nome]
+Hi there! 👋 I'm Rúben,
 
 I am a final-year Computer Science student based in Trofa, passionate about building efficient and scalable software solutions. As I approach my graduation, I am looking to leverage my academic foundation and project experience in a professional Junior Software Engineer role.
 
