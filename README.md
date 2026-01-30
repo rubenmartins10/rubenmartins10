@@ -2,7 +2,7 @@
 
 I am a final-year **Computer Science student** based in Porto, passionate about building efficient and scalable software solutions. As I approach my graduation, I am looking to leverage my academic progress and project experience in a professional **Junior Software Engineer** role.
 
-- 🔭 **I’m currently working on:** **MeClinic**, a comprehensive healthcare management platform designed to streamline clinic administration. Key features include inventory tracking via barcode scanning, user management, and real-time analytical dashboards.
+- 🔭 **I’m currently working on:** **Web Application to MeClinic**, a comprehensive healthcare management platform designed to streamline clinic administration. Key features include inventory tracking via barcode scanning, user management, and real-time analytical dashboards.
 - 💼 **Open to work:** I am actively looking for **internship or full-time opportunities**.
 
 ---
