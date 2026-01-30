@@ -9,9 +9,11 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
 
 <div align="center">
   <a href="https://github.com/rubenmartins10">
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=rubenmartins10&theme=dracula" alt="Ruben's Streak" />
-</div>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rubenmartins10&show_icons=true&bg_color=000000&title_color=7fff00&text_color=7fff00&icon_color=7fff00&ring_color=7fff00&hide_border=true" alt="Ruben's Stats" />
+  </a>
+  <a href="https://github.com/rubenmartins10">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmartins10&layout=compact&langs_count=8&theme=dark" alt="Ruben's Top Langs" />
+  </a>
 </div>
 
 
