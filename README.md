@@ -10,7 +10,8 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
 <div align="center">
   <a href="https://github.com/rubenmartins10">
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubenmartins10&theme=dracula" alt="Ruben's Streak" />
+    <img src="https://streak-stats.demolab.com?user=rubenmartins10&theme=dracula" alt="Ruben's Streak" />
+</div>
 </div>
 
 
