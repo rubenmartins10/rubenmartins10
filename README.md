@@ -7,6 +7,15 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
 
 ---
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=rubenmartins10&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
 <div align="center">
   <a href="https://github.com/rubenmartins10">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=rubenmartins10&show_icons=true&bg_color=000000&title_color=7fff00&text_color=7fff00&icon_color=7fff00&ring_color=7fff00&hide_border=true" alt="Ruben's Stats" />
