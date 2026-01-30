@@ -1,8 +1,8 @@
 Hi there! 👋 I'm Rúben,
 
-I am a final-year Computer Science student based in Trofa, passionate about building efficient and scalable software solutions. As I approach my graduation, I am looking to leverage my academic foundation and project experience in a professional Junior Software Engineer role.
+I am a final-year Computer Science student based in Porto, passionate about building efficient and scalable software solutions. As I approach my graduation, I am looking to leverage my academic foundation and project experience in a professional Junior Software Engineer role.
 
-🔭 I’m currently working on: I am currently developing MeClinic, a comprehensive healthcare management platform designed to streamline clinic administration. Key features include inventory tracking via barcode scanning, user management, and real-time analytical dashboards.
+🔭 I’m currently working on: I am currently developing a Web Application to MeClinic, a comprehensive healthcare management platform designed to streamline clinic administration. Key features include inventory tracking via barcode scanning, user management, and real-time analytical dashboards.
 
 💼 Open to work: I am actively looking for internship or full-time opportunities.
 
