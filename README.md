@@ -8,18 +8,8 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
 ---
 
 <div align="center">
-  <img align="center" alt="Rúben's Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubenmartins10&theme=zenburn"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubenmartins10&theme=zenburn" alt="Ruben's Profile Details" />
 </div>
-
-<div align="center">
-  <a href="https://github.com/rubenmartins10">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rubenmartins10&show_icons=true&bg_color=000000&title_color=7fff00&text_color=7fff00&icon_color=7fff00&ring_color=7fff00&hide_border=true" alt="Ruben's Stats" />
-  </a>
-  <a href="https://github.com/rubenmartins10">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmartins10&layout=compact&langs_count=8&theme=dark" alt="Ruben's Top Langs" />
-  </a>
-</div>
-
 
 <br>
 
@@ -29,12 +19,11 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
   <img align="center" alt="Rúben-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rúben-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rúben-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rúben-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Rúben-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rúben-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rúben-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" />
-  <img align="center" alt="Rúben-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rúben-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-          
+  <img align="center" alt="Rúben-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Rúben-Postgres" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 <br>
