@@ -9,8 +9,8 @@ I am a final-year Computer Science student based in Porto, passionate about buil
 
 <div>
   <a href="https://beacons.ai/rubenmartins10">
-    <img height="180em" src-"https://github-readme-stats.vercel.app/api?username=rubenmartins10&show_icons=true&theme=dracula&include_all_commits-true&count_private-true"/>
-    <img height="180em" src"https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmartins10&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src=https://github-readme-stats.vercel.app/api?username=O_TEU_USERNAME&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmartins10&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
