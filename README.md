@@ -19,9 +19,6 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubenmartins10&theme=zenburn" height="170" alt="Language" />
 
   <br><br>
-  <strong>3D Contribution Calendar</strong><br>
-  <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-3d-contrib/profile-zenburn.svg" width="100%" alt="3D View" />
-</div>
 
 
 <div align="center">
