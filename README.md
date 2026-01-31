@@ -16,11 +16,11 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
     <tr>
       <td align="center" width="50%">
         <strong>Coding Habits</strong><br><br>
-        <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/metrics.plugin.habits.svg?raw=true&v=1" width="100%" alt="Coding Habits" />
+        <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/metrics.plugin.habits.svg" width="100%" alt="Coding Habits" />
       </td>
       <td align="center" width="50%">
         <strong>3D Contribution</strong><br><br>
-        <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D View" />
+        <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D View" />
       </td>
     </tr>
   </table>
