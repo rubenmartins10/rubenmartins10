@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
+  # 1. Gráfico de Hábitos (Agora em Verde/Cinzento!)
   metrics:
     runs-on: ubuntu-latest
     steps:
@@ -18,13 +19,18 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           config_timezone: Europe/Lisbon
+          # --- NOVAS LINHAS PARA MUDAR A COR ---
+          config_theme: dark          # Força o fundo escuro
+          config_bg_color: 0d1117     # Cor de fundo exata do GitHub Dark
+          config_color_primary: 2ea043 # O verde oficial do GitHub
 
+  # 2. Calendário 3D (Este já estava bem, mantém-se)
   build-3d-contrib:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.Metrics_Token }} # <--- A Correção: Usa a tua chave para baixar o código
+          token: ${{ secrets.METRICS_TOKEN }}
       
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -36,5 +42,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated" || echo "Nada para guardar"
+          git commit -m "generated new green stats" || echo "Nada para guardar"
           git push
