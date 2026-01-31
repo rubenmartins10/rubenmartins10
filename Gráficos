@@ -1,0 +1,38 @@
+name: .github/workflows/profile-stats.yml
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Corre todos os dias à meia-noite
+  workflow_dispatch: # Permite correr manualmente agora
+
+jobs:
+  # 1. Gerar o Gráfico de Hábitos (Coding Habits)
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Europe/Lisbon
+
+  # 2. Gerar o Calendário 3D
+  build-3d-contrib:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
