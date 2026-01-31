@@ -8,23 +8,22 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: "" # Mantém vazio para não repetir cabeçalhos
+          
+          # --- CONFIGURAÇÃO CORRIGIDA ---
+          config_timezone: Europe/Lisbon
+          config_theme: dark             # Usa o tema escuro oficial (sem hacks)
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          config_timezone: Europe/Lisbon
           
-          # --- CONFIGURAÇÃO DE CORES CORRIGIDA ---
-          config_theme: dark
-          extras_css: |
-            svg { background-color: #0d1117 !important; border-radius: 6px; }
-            .field { color: #2ea043 !important; }
-
   build-3d-contrib:
     runs-on: ubuntu-latest
     steps:
