@@ -15,15 +15,15 @@ jobs:
         with:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.Metrics_Token }}
-          base: "" # Mantém vazio para não repetir cabeçalhos
-          
-          # --- CONFIGURAÇÃO CORRIGIDA ---
+          # --- A SOLUÇÃO "TERMINAL" ---
+          template: terminal
+          base: "header, metadata" # Ativar header evita o crash, e no terminal fica bonito
           config_timezone: Europe/Lisbon
-          config_theme: dark             # Usa o tema escuro oficial (sem hacks)
           plugin_habits: yes
-          plugin_habits_facts: no
+          plugin_habits_facts: yes  # Ativar factos ajuda a calcular os gráficos
           plugin_habits_charts: yes
-          
+          plugin_habits_days: 14    # Analisar só 14 dias para ser mais rápido e não dar erro
+
   build-3d-contrib:
     runs-on: ubuntu-latest
     steps:
