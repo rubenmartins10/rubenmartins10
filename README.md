@@ -6,7 +6,10 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
 - 💼 **Open to work:** I am actively looking for **internship or full-time opportunities**.
 
 ---
-<h2>📊 GitHub Stats</h3>
+<div align="center">
+  <h5>📊 GitHub Stats</h3>
+</div>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubenmartins10&theme=zenburn" alt="Ruben's Profile Details" />
 </div>
