@@ -9,8 +9,8 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubenmartins10&theme=zenburn" alt="Ruben's Profile Details" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rubenmartins10&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
 
 <br>
 
