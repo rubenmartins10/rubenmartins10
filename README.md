@@ -11,6 +11,14 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubenmartins10&theme=zenburn" alt="Ruben's Profile Details" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/metrics.plugin.habits.svg" alt="Habits" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D View" width="100%">
+</div>
+
 
 <br>
 
