@@ -12,19 +12,16 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
 </div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="130" src="https://github-readme-stats.vercel.app/api?username=rubenmartins10&show_icons=true&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=8b949e&bg_color=transparent&t=2" alt="Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rubenmartins10&show_icons=true&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=8b949e&bg_color=0d1117" height="140" alt="Stats" />
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmartins10&layout=compact&hide_border=true&title_color=2ea043&text_color=8b949e&bg_color=transparent&t=2" alt="Langs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmartins10&layout=compact&hide_border=true&title_color=2ea043&text_color=8b949e&bg_color=0d1117" height="140" alt="Langs" />
 
   <br><br>
 
   <strong>3D Contribution Calendar</strong><br>
   <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D View" />
 </div>
+
 
 <div align="center">
   <img align="center" alt="Rúben-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
