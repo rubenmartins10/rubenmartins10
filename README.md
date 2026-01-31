@@ -16,7 +16,7 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
 </div>
 
 <div align="center">
-  <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D View" width="300" />
+  <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-3d-contrib/profile-green.svg" alt="3D View" width="300" />
 </div>
 
 <br>
