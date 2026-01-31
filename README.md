@@ -16,7 +16,7 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
     <tr>
       <td align="center" width="50%">
         <strong>Coding Habits</strong><br><br>
-        <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/metrics.plugin.habits.svg" width="100%" alt="Coding Habits (Aguardar atualização)" />
+        <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/metrics.plugin.habits.svg?raw=true&v=1" width="100%" alt="Coding Habits" />
       </td>
       <td align="center" width="50%">
         <strong>3D Contribution</strong><br><br>
@@ -25,7 +25,6 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
     </tr>
   </table>
 </div>
-<br>
 
 <div align="center">
   <img align="center" alt="Rúben-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
