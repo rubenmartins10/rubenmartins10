@@ -15,29 +15,29 @@ jobs:
         with:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.Metrics_Token }}
-          # --- A SOLUÇÃO "TERMINAL" ---
-          template: terminal
-          base: "header, metadata" # Ativar header evita o crash, e no terminal fica bonito
+          base: "" 
+          template: classic
           config_timezone: Europe/Lisbon
+          config_theme: dark
           plugin_habits: yes
-          plugin_habits_facts: yes  # Ativar factos ajuda a calcular os gráficos
+          plugin_habits_facts: no
           plugin_habits_charts: yes
-          plugin_habits_days: 14    # Analisar só 14 dias para ser mais rápido e não dar erro
+          plugin_habits_days: 14
 
   build-3d-contrib:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.Metrics_Token }}
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.Metrics_Token }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated stats" || echo "Nada para guardar"
+          git commit -m "generated" || echo "Nada para guardar"
           git push
