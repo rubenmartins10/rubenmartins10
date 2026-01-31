@@ -2,8 +2,8 @@ name: GitHub Stats & 3D Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Corre todos os dias à meia-noite
+  workflow_dispatch:      # Permite correr manualmente
 
 jobs:
   metrics:
@@ -14,13 +14,13 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.svg
-          token: ${{ secrets.Metrics_Token }}
-          base: "" 
-          template: classic
+          token: ${{ secrets.METRICS_TOKEN }}
+          # MUDANÇA AQUI: Removemos o 'base: ""' que estava a dar erro
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Lisbon
           config_theme: dark
           plugin_habits: yes
-          plugin_habits_facts: no
+          plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_days: 14
 
@@ -29,7 +29,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.Metrics_Token }}
+          token: ${{ secrets.METRICS_TOKEN }}
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
@@ -39,5 +39,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated" || echo "Nada para guardar"
+          git commit -m "generated stats" || echo "Nada para guardar"
           git push
