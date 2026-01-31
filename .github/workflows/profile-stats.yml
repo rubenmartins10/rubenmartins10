@@ -2,8 +2,8 @@ name: GitHub Stats & 3D Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Corre todos os dias à meia-noite
-  workflow_dispatch:      # Permite correr manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   metrics:
@@ -15,14 +15,16 @@ jobs:
         with:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          # MUDANÇA AQUI: Removemos o 'base: ""' que estava a dar erro
-          base: header, activity, community, repositories, metadata
+          base: "" # Limpa o texto todo (tira o header, activity, etc.)
           config_timezone: Europe/Lisbon
           config_theme: dark
+          
+          # CONFIGURAÇÃO DE SEGURANÇA PARA NÃO DAR ERRO
           plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
+          plugin_habits_from: 200       # Analisa mais eventos (200) para garantir que tem dados
+          plugin_habits_days: 14        # Últimos 14 dias
+          plugin_habits_facts: yes      # Ativa os factos (ajuda a evitar o erro visual)
+          plugin_habits_charts: yes     # Ativa o gráfico
 
   build-3d-contrib:
     runs-on: ubuntu-latest
