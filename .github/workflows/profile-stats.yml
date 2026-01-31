@@ -21,5 +21,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated 3d stats" || echo "Nada para guardar"
+          git commit -m "update 3d calendar" || echo "Nada novo"
           git push
