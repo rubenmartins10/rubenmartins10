@@ -13,14 +13,8 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubenmartins10&theme=github_dark" width="100%" alt="Profile Details" />
-  
-  <br><br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubenmartins10&theme=github_dark" height="170" alt="Repos" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubenmartins10&theme=github_dark" height="170" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubenmartins10&theme=github_dark" height="170" alt="Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubenmartins10&theme=github_dark" width="100%" alt="Profile Details" />
 
   <br><br>
 
