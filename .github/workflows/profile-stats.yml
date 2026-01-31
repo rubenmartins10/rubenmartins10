@@ -14,7 +14,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.Metrics_Token }}
           base: "" # Mantém vazio para não repetir cabeçalhos
           
           # --- CONFIGURAÇÃO CORRIGIDA ---
@@ -32,7 +32,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.Metrics_Token }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
