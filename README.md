@@ -12,14 +12,16 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubenmartins10&show_icons=true&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=8b949e&bg_color=0d1117" height="140" alt="Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmartins10&layout=compact&hide_border=true&title_color=2ea043&text_color=8b949e&bg_color=0d1117" height="140" alt="Langs" />
+  <h3>📊 GitHub Stats</h3>
 
+  <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details" />
+  
   <br><br>
 
-  <strong>3D Contribution Calendar</strong><br>
-  <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D View" />
+  <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="170" alt="Commit Language" />
+  <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-summary-card-output/github_dark/3-stats.svg" height="170" alt="Stats" />
+  <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="170" alt="Repos per Language" />
+
 </div>
 
 
