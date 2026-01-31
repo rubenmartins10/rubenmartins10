@@ -1,4 +1,4 @@
-name: GitHub Stats & 3D Calendar
+name: 3D Calendar Only
 
 on:
   schedule:
@@ -6,26 +6,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: "" # Limpa o texto todo (tira o header, activity, etc.)
-          config_timezone: Europe/Lisbon
-          config_theme: dark
-          
-          # CONFIGURAÇÃO DE SEGURANÇA PARA NÃO DAR ERRO
-          plugin_habits: yes
-          plugin_habits_from: 200       # Analisa mais eventos (200) para garantir que tem dados
-          plugin_habits_days: 14        # Últimos 14 dias
-          plugin_habits_facts: yes      # Ativa os factos (ajuda a evitar o erro visual)
-          plugin_habits_charts: yes     # Ativa o gráfico
-
   build-3d-contrib:
     runs-on: ubuntu-latest
     steps:
@@ -41,5 +21,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated stats" || echo "Nada para guardar"
+          git commit -m "generated 3d stats" || echo "Nada para guardar"
           git push
