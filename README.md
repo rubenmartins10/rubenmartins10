@@ -12,18 +12,17 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
 </div>
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" width="50%">
-        <strong>Coding Habits</strong><br><br>
-        <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/metrics.plugin.habits.svg" width="100%" alt="Coding Habits" />
-      </td>
-      <td align="center" width="50%">
-        <strong>3D Contribution</strong><br><br>
-        <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D View" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=rubenmartins10&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=2ea043&title_color=2ea043&text_color=8b949e" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmartins10&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=8b949e" />
+  </a>
+
+  <br><br>
+
+  <strong>3D Contribution Calendar</strong><br>
+  <img src="https://github.com/rubenmartins10/rubenmartins10/blob/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D View" />
 </div>
 
 <div align="center">
