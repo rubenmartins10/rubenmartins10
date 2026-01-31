@@ -13,10 +13,11 @@ I am a final-year **Computer Science student** based in Porto, passionate about 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=rubenmartins10&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=2ea043&title_color=2ea043&text_color=8b949e" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=rubenmartins10&show_icons=true&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=8b949e&bg_color=transparent" alt="Ruben Stats" />
   </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmartins10&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=8b949e" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmartins10&layout=compact&hide_border=true&title_color=2ea043&text_color=8b949e&bg_color=transparent" alt="Ruben Languages" />
   </a>
 
   <br><br>
