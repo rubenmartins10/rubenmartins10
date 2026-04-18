@@ -16,7 +16,7 @@ Currently looking for my first professional role as a Junior Software Engineer â
 
 ### Tech Stack
 
-<p>
+<p align="center">
   <img alt="JavaScript" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img alt="TypeScript" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img alt="Python" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -67,7 +67,7 @@ Currently looking for my first professional role as a Junior Software Engineer â
 
 ### Connect
 
-<p>
+<p align="center">
   <a href="mailto:rubendavidsilvamartins@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
