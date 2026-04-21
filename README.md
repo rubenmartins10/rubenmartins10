@@ -62,6 +62,7 @@ Currently looking for my first professional role as a Junior Software Engineer �
 - Elements of AI — Nova School of Business & Economics
 - Generative AI — Santander
 - Python (Basic) Certificate — HackerRank
+- Learn SQL Course — CodeAcademy
 
 ---
 
