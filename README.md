@@ -63,6 +63,8 @@ Currently looking for my first professional role as a Junior Software Engineer �
 - Generative AI — Santander
 - Python (Basic) Certificate — HackerRank
 - Learn SQL Course — CodeAcademy
+- Learn Python 3 - CodeAcademy
+- Developing LLM Applications with LangChain - DataCamp
 
 ---
 
